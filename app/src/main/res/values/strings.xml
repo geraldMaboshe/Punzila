@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Punzila II</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">User</string>
+    <string name="account_text">ACCOUNT</string>
+    <string name="username_text">Enter Username</string>
+    <string name="password_text">Enter Password</string>
+    <string name="login_text">Login</string>
+    <string name="newtopunilla_text">New to Punzilla II? Sign up below</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_text">New to Punzila II? Sign Up below</string>
+    <string name="title_activity_signin">signin</string>
+    <string name="title_activity_login">Login</string>
+    <string name="empty_string" />
+    <string name="emptyString" />
+    <string name="empty" />
+</resources>
